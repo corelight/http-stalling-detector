@@ -1,0 +1,4 @@
+[package]
+description = Detect HTTP stalling attacks like slowloris.
+tags = http, DoS, attack, notice
+script_dir = scripts
